@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="INFO6205_Fall2021_Section1_Final" />
         <module name="INFO6205_FinalCoding_Section1" />
       </profile>
     </annotationProcessing>
